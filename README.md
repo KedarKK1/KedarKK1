@@ -4,7 +4,7 @@
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-## About me - 
+# About me - 
 - Second Year Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web-development projects...
 - 🌱 I’m currently learning AWS and deployment...
