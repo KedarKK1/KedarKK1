@@ -30,12 +30,6 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
 https://github-readme-stats.vercel.app/api/top-langs/?username={KedarKK1}
 https://github-profile-trophy.vercel.app/?username={KedarKK1}
 # 📫 You can reach me: 
