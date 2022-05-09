@@ -1,4 +1,4 @@
-### Arigato! Welcome to my Github profile there 👋
+### Arigato! Welcome to my Github profile here 👋
 
 
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
