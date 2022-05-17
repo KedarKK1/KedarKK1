@@ -1,4 +1,4 @@
-### <h1 align="center">Arigato! [<div class="tenor-gif-embed" data-postid="11366012" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012">Waving Hi GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/bef6u.gif) Welcome to my Github profile here 👋</h1>
+### <h1 align="center">Arigato! <img src="https://tenor.com/bef6u.gif"> Welcome to my Github profile here 👋</h1>
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src="https://ahseeit.com/anime/king-include/uploads/2021/02/thumb_132737489_324041068657176_2031507643025332624_n-2650150931.jpg"> -->
 <!-- Here are some ideas to get you started: -->
