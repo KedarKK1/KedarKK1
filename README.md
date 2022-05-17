@@ -1,4 +1,4 @@
-<div><img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="400" height="400" />
+<div><img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="500" height="400" />
 <!--  <img align="right" src=" https://c.tenor.com/WPtcNal8ZAkAAAAd/hi-joker.gif" width="250" height="300" /> -->
 
 <!--  <img align="right" src="https://c.tenor.com/2bSv1eY0a9QAAAAd/ola-blow-kiss.gif" width="400" height="400" /> -->
