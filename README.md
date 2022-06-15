@@ -8,7 +8,6 @@
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src="https://ahseeit.com/anime/king-include/uploads/2021/02/thumb_132737489_324041068657176_2031507643025332624_n-2650150931.jpg"> -->
 <!-- Here are some ideas to get you started: -->
-<div>
 <div align="left">
 # About me - 
 - Second Year Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
@@ -20,7 +19,6 @@
  </div>
 <div align="right">
 <img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="500" height="400" />
- </div>
  </div>
 # 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
