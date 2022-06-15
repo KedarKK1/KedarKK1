@@ -8,7 +8,7 @@
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src="https://ahseeit.com/anime/king-include/uploads/2021/02/thumb_132737489_324041068657176_2031507643025332624_n-2650150931.jpg"> -->
 <!-- Here are some ideas to get you started: -->
-<div align="left">
+
 # About me - 
 - Second Year Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web-development projects...
@@ -16,7 +16,6 @@
 - 👯 I’m looking to collaborate on various web-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web Development querries...
 - ✨I love watching anime and sit-coms....
- </div>
 <div align="right">
 <img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="500" height="400" />
  </div>
