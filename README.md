@@ -39,7 +39,5 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
  <a target="_href" href="https://www.linkedin.com/in/kedar-koshti-700804218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!-- - ⚡ Fun fact: ... -->
 
-<div> 
- <img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
-</div>
+<img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
 # Bye
