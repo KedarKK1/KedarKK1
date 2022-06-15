@@ -40,6 +40,6 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 <!-- - ⚡ Fun fact: ... -->
 
 <div> 
-# Bye
  <img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
 </div>
+# Bye
