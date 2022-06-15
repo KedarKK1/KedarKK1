@@ -2,7 +2,7 @@
 
 <!--  <img align="right" src="https://c.tenor.com/2bSv1eY0a9QAAAAd/ola-blow-kiss.gif" width="400" height="400" /> -->
 <!--  <img align="right" src="https://c.tenor.com/UzPuVEsxROAAAAAC/waving-hi.gif" width="400" height="400" /> -->
-### <h1 align="center">Arigato! Welcome to my Github profile here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+### <h1 align="center">Arigato! Welcome to my Github profile here <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></span> </h1>
 
 <!-- ### <h1 align="center">Arigato! Welcome to my Github profile here 👋</h1></div> -->
 <!-- **KedarKK1/KedarKK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -17,7 +17,6 @@
 - 👯 I’m looking to collaborate on various web-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web Development querries...
 - ✨I love watching anime and sit-coms....
- 
  </div>
 <img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="500" height="400" />
 </div>
