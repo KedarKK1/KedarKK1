@@ -9,7 +9,7 @@
 <!-- <img src="https://ahseeit.com/anime/king-include/uploads/2021/02/thumb_132737489_324041068657176_2031507643025332624_n-2650150931.jpg"> -->
 <!-- Here are some ideas to get you started: -->
 <div>
-<div align="left>
+<div align="left">
 # About me - 
 - Second Year Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web-development projects...
@@ -18,6 +18,7 @@
 - 💬 Ask me about Web Development querries...
 - ✨I love watching anime and sit-coms....
  </div>
+   
 <img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="500" height="400" />
 </div>
 # 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
