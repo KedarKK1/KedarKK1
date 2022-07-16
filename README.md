@@ -10,6 +10,9 @@
 <!-- Here are some ideas to get you started: -->
 <div align="right">
 <!--  <img align="right" src="https://c.tenor.com/FRfu1lHGgrUAAAAd/itachi-uchiha-naruto.gif" width="400" height="350" /> -->
+<!--  https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif -->
+<!--  https://camo.githubusercontent.com/a8c8389181c01a4f48487ae37f939b44d3b68ef3e79ee7e5efe3b648d84f7675/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f687a644b764c543144784678685a41492f67697068792e676966 -->
+<!--  https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966 -->
  <img align="right" src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="400" height="350" />
 </div>
  
