@@ -46,6 +46,7 @@
                     
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username={KedarKK1}
 https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
+[![@kedarkk1's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
 
 <!--  hi -->
 # 📫 You can reach me: 
