@@ -1,4 +1,7 @@
 <!--  <img align="right" src=" https://c.tenor.com/WPtcNal8ZAkAAAAd/hi-joker.gif" width="250" height="300" /> -->
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijain2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhijain2003" /> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijain2003" alt="abhijain2003" /></a> </p>
+-->
 
 <!--  <img align="right" src="https://c.tenor.com/2bSv1eY0a9QAAAAd/ola-blow-kiss.gif" width="400" height="400" /> -->
 <!--  <img align="right" src="https://c.tenor.com/UzPuVEsxROAAAAAC/waving-hi.gif" width="400" height="400" /> -->
