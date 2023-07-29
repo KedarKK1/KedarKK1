@@ -58,20 +58,23 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 [![@kedarkk1's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
 
 # 📊 My Github Stats:
+
+## GitHub Stats
 <div style="display: flex;">
   <div style="flex: 1;">
-   
-![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KedarKK1&show_icons=true&theme=dark) 
-
+    ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KedarKK1&show_icons=true&theme=dark) 
   </div>
   <div style="flex: 1;">
-   
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a>
-    
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   </div>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Top Languages
+<div>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
+    <img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" />
+  </a>
+</div>
 
 <!--  hi -->
 # 📫 You can reach me: 
