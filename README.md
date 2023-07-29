@@ -67,13 +67,13 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
     
   </div>
   <div style="flex: 1;">
-   
+   ## Top Languages Used
   <p><a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a></p>
     
   </div>
 </div>
 
-## Top Languages
+## Contributions & Streak
 <div>
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
