@@ -57,6 +57,15 @@ src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge
 https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 [![@kedarkk1's Holopin board](https://holopin.io/api/user/board?user=kedarkk1)](https://holopin.io/@kedarkk1)
 
+# 📊 My Github Stats:
+<br/>
+
+![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KedarKK1&show_icons=true&theme=dark) <p><a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
+
 <!--  hi -->
 # 📫 You can reach me: 
 - <a href="mailto:officialkedark1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
