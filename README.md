@@ -20,7 +20,7 @@
 </div>
  
 # About me - 
-- Third Year Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
+- Fourth(Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web, app & blockchain-development projects...
 - 🌱 I’m currently learning AWS and cloud computing...
 - 👯 I’m looking to collaborate on various web, app & blockchain-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
