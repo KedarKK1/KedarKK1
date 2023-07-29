@@ -59,12 +59,12 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 # 📊 My Github Stats:
 <br/>
-
+<div align="center">
 ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KedarKK1&show_icons=true&theme=dark) <p><a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Kedar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarKK1&langs_count=8&count_private=true&layout=compact&theme=dark" /></a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
-
+</div>
 
 <!--  hi -->
 # 📫 You can reach me: 
