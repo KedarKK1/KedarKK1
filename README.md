@@ -75,14 +75,15 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
   </div>
 </div>
 
-## Contributions & Streak
+<!--  ## Contributions & Streak
 <div>
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KedarKK1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
+-->
 
-## Stats
+## Contributions & Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KedarKK1&theme=tokyonight" />
 
