@@ -82,6 +82,13 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
   
 </div>
 
+## Stats
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KedarKK1&theme=tokyonight" />
+
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/KedarKK1?ext=heatmap&animation=true)](https://leetcode.com/KedarKK1)
+
 <!--  hi -->
 # 📫 You can reach me: 
 - <a href="mailto:officialkedark1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
@@ -91,3 +98,8 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 <img align="right" src="https://c.tenor.com/SS_YqhEMYq8AAAAC/bhool-bhulaiyaa-akshay-kumar-aditya.gif"  width="500" height="400" />
 
 # Bye <span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" /></span>
+
+### Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{KedarKK1}/count.svg)
+
