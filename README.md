@@ -90,11 +90,11 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 ## Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KedarKK1?ext=heatmap&animation=true)](https://leetcode.com/KedarKK1)
 
-<!-- uncomment below to see 🙄
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="KedarKK1Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KedarKK1" alt="KedarKK1" /></a> </p>
- -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="KedarKK1Views" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KedarKK1" alt="KedarKK1" /></a> </p>
+ <!-- uncomment below to see 🙄-->
  
 <!--  hi -->
 # 📫 You can reach me: 
