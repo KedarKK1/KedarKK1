@@ -20,6 +20,9 @@
 </div>
  
 # About me - 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)
+
 - 🎓 Fourth (Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web, app & blockchain-development projects...
 - 🌱 I’m currently learning AWS and cloud computing...
@@ -85,11 +88,18 @@ https://github-profile-trophy.vercel.app/?username={KedarKK1} -->
 
 ## Contributions & Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
+
+<!-- ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)  -->
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KedarKK1&theme=tokyonight" />
 
 ## Leetcode Stats
+
+</details>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/KedarKK1?ext=heatmap&animation=true)](https://leetcode.com/KedarKK1)
 
+</details>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KedarKK1&label=Profile%20views&color=0e75b6&style=flat" alt="KedarKK1Views" /> </p>
 
