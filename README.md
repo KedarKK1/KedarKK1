@@ -21,7 +21,7 @@
  
 # About me - 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)  -->
 
 - 🎓 Fourth (Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)
 - 🔭 I’m currently working on few Web, app & blockchain-development projects...
