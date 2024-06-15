@@ -24,7 +24,7 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=5019&multiline=true&height=60&lines=A+zealous+Full+Stack+Developer+;%26+A+Tech+enthusiast+from+India)  -->
 
 <!-- - 🎓 Fourth (Final) Year Computer Engineering student at Pune Institute of Computer Technology, Pune. (PICT)  -->
-- 🎓 Full Stack Developer (MERN, Nest js & Next js, Django, DRF, Java) + App Developer (fresher) with real-time experience of 3 years of end-to-end project creation & deployment 
+- 🎓 Full Stack Developer (MERN, Nest js & Next js, Django, DRF, Java Springboot) + App Developer (React-Native, Kotlin) (fresher) with real-time experience of 3 years of end-to-end project creation & deployment 
 - 🔭 I’m currently working on few Web, app & blockchain-development projects...
 - 🌱 I’m currently learning AWS and cloud computing...
 - 👯 I’m looking to collaborate on various web, app & blockchain-development Projects. Feel free to collaborate....<!-- - 🤔 I’m looking for help with ... -->
